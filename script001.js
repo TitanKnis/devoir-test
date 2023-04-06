@@ -11,7 +11,7 @@ function nombre(){
         nl=0
         nc=0
         ns=0
-        for(let i=0;i<ch.length;i++){
+        for(i=0;i<ch.length;i++){
             chi=ch.charAt(i).toUpperCase()
             chj=ch.charAt(i)
             if(chi>="A" && chi<="Z"){
